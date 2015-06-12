@@ -1,4 +1,4 @@
-var userSchema = require('./user.json')
 module.exports = {
-	user: userSchema
+	user: require('./user.json'),
+	invitation: require('./invitationSchema.json')
 }
