@@ -6,6 +6,7 @@
 		"first_name":				{ "type": "string" },
 		"home_phone":				{ "type": "string" },
 		"invite_code":           	{ "type": "string" },
+		"activation_key":          	{ "type": "string" },
 		"last_name":				{ "type": "string" },
 		"linked_account":			{ "type": "string" },
 		"mobile_phone":				{ "type": "string" },
