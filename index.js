@@ -1,4 +1,4 @@
 module.exports = {
 	user: require('./user.json'),
-	invitation: require('./invitationSchema.json')
+	invitation: require('./invitation.json')
 }
