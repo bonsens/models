@@ -1,0 +1,11 @@
+{
+    "type": "object",
+    "properties": {
+        "method":                   { "type": "string" },
+        "to":                       { "type": "string" },
+        "from":                     { "type": "string" },
+        "subject":                  { "type": "string" },
+        "body":                     { "type": "string" },
+        "template":                 { "type": "string" }
+    }
+}
