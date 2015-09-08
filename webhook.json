@@ -1,0 +1,11 @@
+{
+    "type": "object",
+    "properties": {
+        "in": {
+            "type": "object",
+            "properties": {
+                "host": { "type": "string" }
+            }
+        }
+    }
+}

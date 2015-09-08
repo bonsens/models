@@ -1,6 +1,6 @@
 {
   "name": "bonsens-models",
-  "version": "0.2.5",
+  "version": "0.3.0",
   "description": "object representations for common conformed dimensions",
   "main": "index.js",
   "repository": "bonsens/models",
