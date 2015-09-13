@@ -1,0 +1,12 @@
+{
+    "type": "object",
+    "properties": {
+        "countryOfOrigin":          { "type": "string" },
+        "description":              { "type": "string" },
+        "manufacturer":             { "type": "string" },
+        "name":                     { "type": "string" },
+        "price":                    { "type": "number" },
+        "SKU":                      { "type": "string" },
+        "url":                      { "type": "string" }
+    }
+}
